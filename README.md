@@ -1,6 +1,6 @@
 # npmtest-catw
 
-#### test coverage for  [catw (v1.0.1)](https://github.com/substack/catw)  [![npm package](https://img.shields.io/npm/v/npmtest-catw.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-catw) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-catw.svg)](https://travis-ci.org/npmtest/node-npmtest-catw)
+#### basic test coverage for  [catw (v1.0.1)](https://github.com/substack/catw)  [![npm package](https://img.shields.io/npm/v/npmtest-catw.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-catw) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-catw.svg)](https://travis-ci.org/npmtest/node-npmtest-catw)
 
 #### concatenate file globs, watching for changes
 
